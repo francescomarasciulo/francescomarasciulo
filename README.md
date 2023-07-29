@@ -1,7 +1,7 @@
 # Hello there!👋
 
 I'm Francesco Marasciulo, a university student studying Informatics and Technologies for Software Production in Italy.
-In addition to my studies, i'm also a web developer.
+In addition to my studies, i'm also a software developer.
 
 ## 🔭 What you will find here
 
