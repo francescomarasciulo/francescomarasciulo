@@ -6,6 +6,7 @@ In addition to my studies, i'm also a web developer.
 In my GitHub repository i have stored all of the projects i completed during university. I participated in each of these projects as a team member and completed my work trying a variety of contexts.
 
 On the <b>frontend</b> side, i have learned <b>Java</b>.
+<b>
 On the <b>backend</b>, i have learned <b>SQL</b>, <b>jQuery</b>.
 I've also worked with <b>Android Studio</b>.
 
