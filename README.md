@@ -2,7 +2,7 @@ Hello there!👋
 I'm Francesco Marasciulo, a university student studying Informatics and Technologies for Software Production in Italy.
 In addition to my studies, i'm also a web developer.
 
-🔭 What you will find here
+#🔭 What you will find here
 In my GitHub repository i have stored all of the projects i completed during university. I participated in each of these projects as a team member and completed my work trying a variety of contexts.
 
 * On the <b>frontend</b> side, i have learned <b>Java</b>.
